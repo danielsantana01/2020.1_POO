@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Daniel Santana\\Desktop\\Coding\\POO\\Lista_05\\1042\\1042.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Daniel Santana\\Desktop\\Coding\\POO\\Lista_05\\1042\\1042.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Daniel Santana\\Desktop\\Coding\\POO\\Lista_05\\1042\\1042.csproj",
+        "projectName": "1042",
+        "projectPath": "D:\\Users\\Daniel Santana\\Desktop\\Coding\\POO\\Lista_05\\1042\\1042.csproj",
+        "packagesPath": "C:\\Users\\Daniel Santana\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Daniel Santana\\Desktop\\Coding\\POO\\Lista_05\\1042\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daniel Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\bin\Debug\netcoreapp2.1\1035.deps.json
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\bin\Debug\netcoreapp2.1\1035.runtimeconfig.json
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\bin\Debug\netcoreapp2.1\1035.runtimeconfig.dev.json
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\bin\Debug\netcoreapp2.1\1035.dll
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\bin\Debug\netcoreapp2.1\1035.pdb
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.csprojAssemblyReference.cache
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.csproj.CoreCompileInputs.cache
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.AssemblyInfoInputs.cache
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.AssemblyInfo.cs
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.dll
+D:\Users\Daniel Santana\Desktop\Coding\POO\Lista_05\1035\obj\Debug\netcoreapp2.1\1035.pdb
